@@ -1,0 +1,2 @@
+2018-01-25 17:44:32 [main] main.Main.main()
+WARNING: Hello Java
